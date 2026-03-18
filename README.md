@@ -1,5 +1,5 @@
-# PyroG-Code-Sample
-Code Sample: Fire detection application integrating computer vision, location identification, and database components.
+# PyroGuard Fire Detection
+Fire detection application integrating computer vision, location identification, and database components.
 
 PyroGuard is a Python-based fire detection application with a graphical user interface built using PyQt5. The project combines computer vision, location identification, database integration, and image/video processing in a desktop application.
 
